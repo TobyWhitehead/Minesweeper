@@ -2,7 +2,7 @@
 
 20/08
 
-Crude minesweeper games.
+Crude minesweeper game
 
 To improve:
 
