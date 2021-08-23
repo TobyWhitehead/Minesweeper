@@ -1,5 +1,7 @@
 # Minesweeper
 
+20/08
+
 Crude minesweeper games.
 
 To improve:
@@ -12,4 +14,6 @@ To improve:
 
 *add functionality to choose grid size and number of mines
 
+23/08
 
+*realised that if the user inputs a tile that has already been "clicked" it will end the game before all empty tiles have been uncovered
